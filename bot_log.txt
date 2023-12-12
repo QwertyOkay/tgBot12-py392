@@ -1,0 +1,63 @@
+nohup: ignoring input
+Бот запущен. Ожидание сообщений...
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь /start (ID: 6699477319 | easymoneyjobbb) с города testcity ввел номер телефона: testphone
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь Олег (ID: 651940207 | ty_dur) с города Уфа ввел номер телефона: @ty_dur
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь /start (ID: 476358435 | topkits) с города /start ввел номер телефона: test_21.17:1608__
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь /start (ID: 476358435 | topkits) с города /start ввел номер телефона: /start
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь Юрий (ID: 330777317 | yuriy_butin) с города Иркутск ввел номер телефона: @yuriy_butin
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь Тагир (ID: 6250488712 | onionangel) с города Уфа ввел номер телефона: onionangel
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь анастасия (ID: 6048600609 | Zzot27) с города тестовый ввел номер телефона: 06863311 
+@rrrrr
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь Мурад (ID: 1835653921 | MariamIbragimova) с города Махачкала ввел номер телефона: @MariamIbragimova
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь Вячеслав (ID: 125647830 | The_sklyaroff) с города Ростов-на-Дону ввел номер телефона: the_sklyaroff
+Test
+Test2
+Test3
+TESTgoogle1
+Test4
+Пользователь Жонибек (ID: 5637740749 | None) с города Москва ввел номер телефона: +79616657671
