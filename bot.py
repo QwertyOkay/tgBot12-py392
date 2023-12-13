@@ -97,7 +97,7 @@ def save_phone(update: Update, context: CallbackContext) -> int:
 
 
     # postback 
-    url = "https://mextraff.com/4b1d6c9/postback"
+    url = "https://mextraff.pro/cacec1a/postback"
     subid = start_param.split('_')[0]
     data = {
         'subid': subid,
