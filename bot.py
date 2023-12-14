@@ -101,7 +101,8 @@ def save_phone(update: Update, context: CallbackContext) -> int:
     subid = start_param.split('_')[0]
     data = {
         'subid': subid,
-        'status': 'lead'
+        'status': 'lead',
+        'from': 'TGBot'
     }
 
     try:
