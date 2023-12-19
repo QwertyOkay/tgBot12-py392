@@ -20,6 +20,9 @@ worksheet = sheet.get_worksheet(0)
 # Определение функций обработки команд
 
 def start(update: Update, context: CallbackContext) -> int:
+    # Сброс данных пользователя
+    context.user_data.clear() 
+
     global start_counter
     start_counter += 1
 
@@ -136,7 +139,7 @@ def save_phone(update: Update, context: CallbackContext) -> int:
 
 # Инициализация бота
 def main():
-    TOKEN = '6312484015:AAHUysdpMvGzL9JRYJYIanF0perFxVxsohI'  # Замените на ваш токен
+    TOKEN = '6651784555:AAHJdEn9cTDou9JdlWLK9sE2YjPKXghgm90'  # Замените на ваш токен
     updater = Updater(token=TOKEN, use_context=True)
     dp = updater.dispatcher
 
